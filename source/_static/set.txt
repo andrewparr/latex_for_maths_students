@@ -1,0 +1,5 @@
+\subset
+\subseteq
+\in
+\cup
+\cap
