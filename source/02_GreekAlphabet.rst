@@ -1,3 +1,5 @@
+.. _greekAlphabet:
+
 Greek Alphabet
 ==============
 

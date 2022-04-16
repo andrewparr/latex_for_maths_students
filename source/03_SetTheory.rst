@@ -1,3 +1,5 @@
+.. _SetTheory:
+
 Set Theory
 ==========
 

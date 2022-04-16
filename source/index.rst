@@ -10,10 +10,7 @@ Latex for Maths Students
    02_GreekAlphabet
    03_SetTheory
 
+.. toctree::
+   :hidden:
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   genindex
