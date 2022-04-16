@@ -8,7 +8,7 @@ git clone https://github.com/andrewparr/latex_for_maths_students.git deploy
 cd deploy
 git checkout gh-pages
 rm -rf * .gitignore .buildinfo .nojekyll
-cp -r ../build/* .
+cp -r ../build/html/./ .
 touch .nojekyll
 git add .
 git commit -m "Update `date`"
